@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Yummly2</string>
+    <string name="title_activity_main">Main</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_confirm_pay">ConfirmPay</string>
+    <string name="title_activity_pay_now">PayNow</string>
+    <string name="title_activity_cod">COD</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_about_us">AboutUs</string>
+</resources>
